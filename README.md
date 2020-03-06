@@ -1,4 +1,4 @@
-# expenses_app_two
+# expenses_app
 
 A new Flutter application.
 
